@@ -45,7 +45,7 @@
     <img src="./Kusisa.png" width="600" alt="Kusisa" />
   </a>
 </p>
-<p align="center">Un juego 2D en Godot donde dos caracoles luchan en plataformas con cuchillos y obstáculos.</p>
+<p align="center">Una página de presentación para una pequeña repostería</p>
 
 ---
 
