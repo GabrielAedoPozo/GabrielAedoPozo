@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://github.com/GabrielAedoPozo/Permodoro">
-    <img src="./Permodoro.png" width="600" style="filter: brightness(0.7);" alt="Pomodoro" />
+    <img src="./Pomodoro.png" width="600" style="filter: brightness(0.7);" alt="Pomodoro" />
   </a>
 </p>
 <p align="center">Un temporizador Pomodoro para ayudar a estudiantes a concentrarse mejor durante sus estudios.</p>
