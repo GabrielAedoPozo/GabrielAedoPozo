@@ -41,7 +41,7 @@
 #### 🍰 Kusisa
 
 <p align="center">
-  <a href="https://github.com/GabrielAedoPozo/Kusisa-">
+  <a href="https://gabrielaedopozo.github.io/Kusisa-/">
     <img src="./Kusisa.png" width="600" style="filter: brightness(0.7);" alt="Kusisa" />
   </a>
 </p>
@@ -52,7 +52,7 @@
 #### 🍅 Proyecto Pomodoro
 
 <p align="center">
-  <a href="https://github.com/GabrielAedoPozo/Permodoro">
+  <a href="https://gabrielaedopozo.github.io/Permodoro/">
     <img src="./Pomodoro.png" width="600" style="filter: brightness(0.7);" alt="Pomodoro" />
   </a>
 </p>
