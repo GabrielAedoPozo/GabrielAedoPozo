@@ -27,9 +27,36 @@
 
 ### 🛠️ Proyectos Destacados
 
-- 🖼️ [Portafolio Web](https://gabrielaedopozo.github.io/portafolio1/) — Mi portafolio hecho con Astro y Tailwind.
-- 🍅 Un proyecto del metodo pomodoro que ayuda a estudiantes en su estudio.
-- 📦 Más proyectos en mis [repositorios](https://github.com/GabrielAedoPozo?tab=repositories).
+#### 🎨 Portafolio Web
+
+<p align="center">
+  <a href="https://gabrielaedopozo.github.io/portafolio1/">
+    <img src="./Portafolio.png" width="600" alt="Portafolio Web" />
+  </a>
+</p>
+<p align="center">Mi portafolio hecho con Astro y Tailwind.</p>
+
+---
+
+#### 🍰 Kusisa
+
+<p align="center">
+  <a href="https://github.com/GabrielAedoPozo/Kusisa-">
+    <img src=".Kusisa.png" width="600" alt="Kusisa" />
+  </a>
+</p>
+<p align="center">Un juego 2D en Godot donde dos caracoles luchan en plataformas con cuchillos y obstáculos.</p>
+
+---
+
+#### 🍅 Proyecto Pomodoro
+
+<p align="center">
+  <a href="https://github.com/GabrielAedoPozo/Permodoro">
+    <img src="./Permodoro.png" width="600" alt="Pomodoro" />
+  </a>
+</p>
+<p align="center">Un temporizador Pomodoro para ayudar a estudiantes a concentrarse mejor durante sus estudios.</p>
 
 ---
 
@@ -37,7 +64,6 @@
 
 - ✉️ **aedothegabriel@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-
 
 ---
 
