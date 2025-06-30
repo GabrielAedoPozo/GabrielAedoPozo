@@ -27,17 +27,17 @@
 
 ### 🛠️ Proyectos Destacados
 
-- 🖼️ [Portafolio Web](https://tu-portafolio.com) — Mi portafolio hecho con Astro y Tailwind.
-- 🐌 Juego 2D en Godot — Caracoles guerreros en pixel art.
+- 🖼️ [Portafolio Web](https://gabrielaedopozo.github.io/portafolio1/) — Mi portafolio hecho con Astro y Tailwind.
+- 🍅 Un proyecto del metodo pomodoro que ayuda a estudiantes en su estudio.
 - 📦 Más proyectos en mis [repositorios](https://github.com/GabrielAedoPozo?tab=repositories).
 
 ---
 
 ### 📫 Contacto
 
-- ✉️ **gabrielaedopozo@gmail.com**
+- ✉️ **aedothegabriel@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- 🌐 [gabrielaedo.dev](https://gabrielaedo.dev) (si tienes una web)
+
 
 ---
 
