@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/GabrielAedoPozo/Kusisa-">
-    <img src=".Kusisa.png" width="600" alt="Kusisa" />
+    <img src="./Kusisa.png" width="600" alt="Kusisa" />
   </a>
 </p>
 <p align="center">Un juego 2D en Godot donde dos caracoles luchan en plataformas con cuchillos y obstáculos.</p>
