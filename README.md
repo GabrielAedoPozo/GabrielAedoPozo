@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://gabrielaedopozo.github.io/portafolio1/">
-    <img src="./Portafolio.png" width="600" alt="Portafolio Web" />
+    <img src="./Portafolio.png" width="600" style="filter: brightness(0.7);" alt="Portafolio Web" />
   </a>
 </p>
 <p align="center">Mi portafolio hecho con Astro y Tailwind.</p>
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/GabrielAedoPozo/Kusisa-">
-    <img src="./Kusisa.png" width="600" alt="Kusisa" />
+    <img src="./Kusisa.png" width="600" style="filter: brightness(0.7);" alt="Kusisa" />
   </a>
 </p>
 <p align="center">Una página de presentación para una pequeña repostería</p>
@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://github.com/GabrielAedoPozo/Permodoro">
-    <img src="./Permodoro.png" width="600" alt="Pomodoro" />
+    <img src="./Permodoro.png" width="600" style="filter: brightness(0.7);" alt="Pomodoro" />
   </a>
 </p>
 <p align="center">Un temporizador Pomodoro para ayudar a estudiantes a concentrarse mejor durante sus estudios.</p>
