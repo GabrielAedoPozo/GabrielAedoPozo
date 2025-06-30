@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Gabriel Aedo 👋</h1>
+<p align="center">💻 Desarrollador Frontend | 🧠 Aprendiendo todos los días | 🇵🇪 Lima, Perú</p>
 
-<!--
-**GabrielAedoPozo/GabrielAedoPozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔥 Apasionado por la tecnología y el desarrollo web.
+- 🧩 Me encanta resolver problemas con código.
+- 📚 Actualmente aprendiendo **React**, **Tailwind CSS** y **Bootstrap**.
+- 🎯 Mi meta: convertirme en un desarrollador fullstack experto.
+- 💼 Trabajo como freelancer para pequeños negocios.
+
+---
+
+### 🚀 Tecnologías que uso
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
+
+---
+
+### 🛠️ Proyectos Destacados
+
+- 🖼️ [Portafolio Web](https://tu-portafolio.com) — Mi portafolio hecho con Astro y Tailwind.
+- 🐌 Juego 2D en Godot — Caracoles guerreros en pixel art.
+- 📦 Más proyectos en mis [repositorios](https://github.com/GabrielAedoPozo?tab=repositories).
+
+---
+
+### 📫 Contacto
+
+- ✉️ **gabrielaedopozo@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- 🌐 [gabrielaedo.dev](https://gabrielaedo.dev) (si tienes una web)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielAedoPozo&show_icons=true&theme=tokyonight" alt="Gabriel's GitHub stats"/>
+</p>
+
+---
+
+> 💬 *"Nunca dejes de aprender, porque la tecnología nunca se detiene."*
