@@ -64,6 +64,7 @@
 
 - ✉️ **aedothegabriel@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- - 🌐 [portafolio](https://gabrielaedopozo.github.io/portafolio1/) 
 
 ---
 
