@@ -3,7 +3,7 @@
 
 ---
 
-### 🎯 Desarrollador Frontend entusiasta
+### 🎯 Yo
 
 Soy un desarrollador frontend entusiasta que empezó a programar hace 9 meses. Hace 7 descubrí el mundo del frontend y me encantó. Desde entonces no he parado de aprender.
 
