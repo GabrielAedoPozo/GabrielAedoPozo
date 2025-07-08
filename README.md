@@ -37,7 +37,6 @@ Soy muy curioso, autodidacta y disfruto mucho cada proyecto que hago. Me gusta a
 
 ---
 
-### 🛠️ Proyectos Destacados
 
 #### 🎨 Portafolio Web
 
@@ -50,27 +49,7 @@ Soy muy curioso, autodidacta y disfruto mucho cada proyecto que hago. Me gusta a
 
 ---
 
-#### 🍰 Kusisa
 
-<p align="center">
-  <a href="https://gabrielaedopozo.github.io/Kusisa-/">
-    <img src="./Kusisa.png" width="600" style="filter: brightness(0.7);" alt="Kusisa" />
-  </a>
-</p>
-<p align="center">Una página de presentación para una pequeña repostería</p>
-
----
-
-#### 🍅 Proyecto Pomodoro
-
-<p align="center">
-  <a href="https://gabrielaedopozo.github.io/Permodoro/">
-    <img src="./Pomodoro.png" width="600" style="filter: brightness(0.7);" alt="Pomodoro" />
-  </a>
-</p>
-<p align="center">Un temporizador Pomodoro para ayudar a estudiantes a concentrarse mejor durante sus estudios.</p>
-
----
 
 ### 📫 Contacto
 
