@@ -7,7 +7,7 @@
 
 Soy un desarrollador frontend entusiasta que empezó a programar hace 9 meses. Hace 7 descubrí el mundo del frontend y me encantó. Desde entonces no he parado de aprender.
 
-Me gusta crear sitios web bonitos, funcionales y rápidos usando HTML, CSS, JavaScript y React. Ahora estoy aprendiendo Tailwind, Bootstrap y Astro porque quiero seguir creciendo y algún día ser fullstack.
+Me gusta crear sitios web bonitos, funcionales y rápidos usando HTML, CSS, JavaScript, Astro y Tailwind Ahora estoy aprendiendo React, SQL y Next js porque quiero seguir creciendo y algún día ser fullstack.
 
 Soy muy curioso, autodidacta y disfruto mucho cada proyecto que hago. Me gusta ayudar, compartir lo que aprendo y trabajar en equipo.
 
