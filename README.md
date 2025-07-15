@@ -65,4 +65,4 @@ Soy muy curioso, autodidacta y disfruto mucho cada proyecto que hago. Me gusta a
 
 ---
 
-> 💬 *"si estas aburrido codea."*
+> 💬 *"solo se necesita una computadora y una persona llena de ganas de aprender"*
