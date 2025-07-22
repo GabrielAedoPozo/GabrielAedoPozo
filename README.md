@@ -55,7 +55,7 @@ Soy muy curioso, autodidacta y disfruto mucho cada proyecto que hago. Me gusta a
 
 - ✉️ **aedothegabriel@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- - 🌐 [portafolio](https://gabrielaedopozo.github.io/portafolio1/) 
+- 🌐 [portafolio](https://gabriel-aedo.pages.dev/) 
 
 ---
 
