@@ -63,9 +63,6 @@ Soy muy curioso, autodidacta y disfruto mucho cada proyecto que hago. Me gusta a
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielAedoPozo&show_icons=true&theme=tokyonight" alt="Gabriel's GitHub stats"/>
 </p>
 
-## 📊 Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAedoPozo&layout=compact&theme=radical)
 
 
 ---
