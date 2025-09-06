@@ -42,7 +42,7 @@ Soy muy curioso, autodidacta y disfruto mucho cada proyecto que hago. Me gusta a
 
 <p align="center">
   <a href="https://gabriel-aedo.pages.dev/">
-    <img src="./Portafolio.png" width="600" style="filter: brightness(0.7);" alt="Portafolio Web" />
+    <img src="./portfolio-oficial.png" width="600" style="filter: brightness(0.7);" alt="Portafolio Web" />
   </a>
 </p>
 <p align="center">Mi portafolio hecho con Astro y Tailwind.</p>
