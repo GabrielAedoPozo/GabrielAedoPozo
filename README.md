@@ -41,7 +41,7 @@ Soy muy curioso, autodidacta y disfruto mucho cada proyecto que hago. Me gusta a
 #### 🎨 Portafolio Web
 
 <p align="center">
-  <a href="https://gabrielaedopozo.github.io/portafolio-oficial/">
+  <a href="https://portafolio-oficial-sigma.vercel.app/">
     <img src="./portfolio-photo.png" width="600" style="filter: brightness(0.7);" alt="Portafolio Web" />
   </a>
 </p>
