@@ -45,7 +45,7 @@ Soy muy curioso, autodidacta y disfruto mucho cada proyecto que hago. Me gusta a
     <img src="./portafolio-img.png" width="600" style="filter: brightness(0.7);" alt="Portafolio Web" />
   </a>
 </p>
-<p align="center">Mi portafolio hecho con Astro y Tailwind.</p>
+<p align="center">Mi portafolio hecho con Astro</p>
 
 ---
 
