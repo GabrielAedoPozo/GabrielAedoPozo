@@ -1,31 +1,30 @@
-<h1 align="center">Hola, soy Gabriel Aedo 👋</h1>
-<p align="center">💻 Desarrollador Frontend | 🧠 Aprendiendo todos los días | 🇵🇪 Lima, Perú</p>
+<h1 align="center">Hi, I'm Gabriel Aedo 👋</h1>
+<p align="center">💻 Frontend Developer | 🧠 Learning Every Day | 🇵🇪 Lima, Peru</p>
 
 ---
 
-### 🎯 Yo
+### 🎯 About Me
 
-Soy un desarrollador frontend entusiasta que empezó a programar hace 9 meses. Hace 7 descubrí el mundo del frontend y me encantó. Desde entonces no he parado de aprender.
+I'm an enthusiastic frontend developer who started programming 9 months ago. Around 7 months ago, I discovered the world of frontend development — and I loved it. Since then, I haven’t stopped learning.
 
-Me gusta crear sitios web bonitos, funcionales y rápidos usando HTML, CSS, JavaScript, Astro y Tailwind Ahora estoy aprendiendo React, SQL y Next js porque quiero seguir creciendo y algún día ser fullstack.
+I enjoy building beautiful, functional, and fast websites using **HTML**, **CSS**, **JavaScript**, **Astro**, and **Tailwind CSS**.  
+Currently, I’m learning **React**, **SQL**, and **Next.js** because I want to keep growing and eventually become a **full-stack developer**.
 
-Soy muy curioso, autodidacta y disfruto mucho cada proyecto que hago. Me gusta ayudar, compartir lo que aprendo y trabajar en equipo.
-
-
-
-
-
-### 🧑‍💻 Sobre mí
-
-- 🔥 Apasionado por la tecnología y el desarrollo web.
-- 🧩 Me encanta resolver problemas con código.
-- 📚 Actualmente aprendiendo **React**, **Tailwind CSS** y **Bootstrap**.
-- 🎯 Mi meta: convertirme en un desarrollador fullstack experto.
-- 💼 Trabajo como freelancer para pequeños negocios.
+I’m very curious, self-taught, and passionate about every project I build. I love helping others, sharing what I learn, and collaborating with teams.
 
 ---
 
-### 🚀 Tecnologías que uso
+### 🧑‍💻 More About Me
+
+- 🔥 Passionate about technology and web development  
+- 🧩 I love solving problems with code  
+- 📚 Currently learning **React**, **Tailwind CSS**, and **Bootstrap**  
+- 🎯 My goal: to become an expert full-stack developer  
+- 💼 Working as a freelancer for small businesses  
+
+---
+
+### 🚀 Technologies I Use
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,25 +36,22 @@ Soy muy curioso, autodidacta y disfruto mucho cada proyecto que hago. Me gusta a
 
 ---
 
-
-#### 🎨 Portafolio Web
+#### 🎨 Web Portfolio
 
 <p align="center">
   <a href="https://portafolio-oficial-sigma.vercel.app/">
-    <img src="./portafolio-img.png" width="600" style="filter: brightness(0.7);" alt="Portafolio Web" />
+    <img src="./portafolio-img.png" width="600" style="filter: brightness(0.7);" alt="Web Portfolio" />
   </a>
 </p>
-<p align="center">Mi portafolio hecho con Astro</p>
+<p align="center">My portfolio built with Astro</p>
 
 ---
 
+### 📫 Contact
 
-
-### 📫 Contacto
-
-- ✉️ **aedothegabriel@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- 🌐 [portafolio](https://gabriel-aedo.pages.dev/) 
+- ✉️ **aedothegabriel@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
+- 🌐 [Portfolio](https://gabriel-aedo.pages.dev/)  
 
 ---
 
@@ -63,8 +59,7 @@ Soy muy curioso, autodidacta y disfruto mucho cada proyecto que hago. Me gusta a
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielAedoPozo&show_icons=true&theme=tokyonight" alt="Gabriel's GitHub stats"/>
 </p>
 
-
-
 ---
 
-> 💬 *"solo se necesita una computadora y una persona llena de ganas de aprender"*
+> 💬 *"All you need is a computer and the will to learn."*
+
