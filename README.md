@@ -5,7 +5,7 @@
 
 ### 🎯 About Me
 
-I'm an enthusiastic frontend developer who started programming 9 months ago. Around 7 months ago, I discovered the world of frontend development — and I loved it. Since then, I haven’t stopped learning.
+I'm an enthusiastic frontend developer who started programming 1 year ago. Around 9 months ago, I discovered the world of frontend development — and I loved it. Since then, I haven’t stopped learning.
 
 I enjoy building beautiful, functional, and fast websites using **HTML**, **CSS**, **JavaScript**, **Astro**, and **Tailwind CSS**.  
 Currently, I’m learning **React**, **SQL**, and **Next.js** because I want to keep growing and eventually become a **full-stack developer**.
