@@ -39,8 +39,8 @@ I’m very curious, self-taught, and passionate about every project I build. I l
 #### 🎨 Web Portfolio
 
 <p align="center">
-  <a href="https://portafolio-oficial-sigma.vercel.app/">
-    <img src="./portafolio-img.png" width="600" style="filter: brightness(0.7);" alt="Web Portfolio" />
+  <a href="https://portfolio-plum-omega-80.vercel.app/">
+    <img src="./portfolio.png" width="600" style="filter: brightness(0.7);" alt="Web Portfolio" />
   </a>
 </p>
 <p align="center">My portfolio built with Astro</p>
