@@ -43,7 +43,7 @@ I’m very curious, self-taught, and passionate about every project I build. I l
     <img src="./portfolio.png" width="600" style="filter: brightness(0.7);" alt="Web Portfolio" />
   </a>
 </p>
-<p align="center">My portfolio built with Astro</p>
+<p align="center">My portfolio built with Astro and Talwind CSS</p>
 
 ---
 
