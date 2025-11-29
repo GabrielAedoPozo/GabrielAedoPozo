@@ -53,13 +53,7 @@ I’m very curious, self-taught, and passionate about every project I build. I l
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
 - 🌐 [Portfolio](https://gabriel-aedo.pages.dev/)  
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielAedoPozo&show_icons=true&theme=tokyonight" alt="Gabriel's GitHub stats"/>
-</p>
-
----
 
 > 💬 *"All you need is a computer and the will to learn."*
 
