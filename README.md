@@ -18,7 +18,7 @@ I’m very curious, self-taught, and passionate about every project I build. I l
 
 - 🔥 Passionate about technology and web development  
 - 🧩 I love solving problems with code  
-- 📚 Currently learning **Flask** and *SQL*  
+- 📚 Currently learning **NextJS** and *SQL*  
 - 🎯 My goal: to become an expert full-stack developer  
 - 💼 Working as a freelancer for small businesses  
 
