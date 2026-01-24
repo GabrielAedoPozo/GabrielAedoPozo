@@ -1,13 +1,6 @@
-
-
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Gabriel Aedo
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Frontend+Developer+from+Peru+%F0%9F%87%B5%F0%9F%87%AA;1+Year+Building+the+Web+%F0%9F%9A%80;Passionate+About+Clean+Code+%E2%9C%A8;Learning+Every+Single+Day+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
-
+<h1 align="center">Hi, I'm Gabriel Aedo 👋</h1>
+<p align="center">💻 Frontend Developer | 🧠 Learning Every Day | 🇵🇪 Lima, Peru</p>
 ---
-
 ### 🎯 About Me
 I'm an enthusiastic frontend developer who started programming 1 year ago. I discovered the world of frontend development — and I loved it. Since then, I haven’t stopped learning.
 I enjoy building beautiful, functional, and fast websites using **HTML**, **CSS**, **JavaScript**, **Astro**, and **Tailwind CSS**.  
