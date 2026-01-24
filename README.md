@@ -36,7 +36,7 @@ I’m very curious, self-taught, and passionate about every project I build. I l
   </a>
 </p>
 <p align="center">My portfolio built with Astro and Talwind CSS</p>
----
+
 
 ### 📫 Contact
 - ✉️ **aedothegabriel@gmail.com**  
