@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Gabriel Aedo 👋</h1>
 <p align="center">💻 Frontend Developer | 🧠 Learning Every Day | 🇵🇪 Lima, Peru</p>
+
 ---
 ### 🎯 About Me
 I'm an enthusiastic frontend developer who started programming 1 year ago. I discovered the world of frontend development — and I loved it. Since then, I haven’t stopped learning.
@@ -7,6 +8,7 @@ I enjoy building beautiful, functional, and fast websites using **HTML**, **CSS*
 Currently, I’m learning **React**, **SQL**, and **Next.js** because I want to keep growing and eventually become a **full-stack developer**.
 I’m very curious, self-taught, and passionate about every project I build. I love helping others, sharing what I learn, and collaborating with teams.
 ---
+
 ### 🧑‍💻 More About Me
 - 🔥 Passionate about technology and web development  
 - 🧩 I love solving problems with code  
@@ -14,6 +16,7 @@ I’m very curious, self-taught, and passionate about every project I build. I l
 - 🎯 My goal: to become an expert full-stack developer  
 - 💼 Working as a freelancer for small businesses  
 ---
+
 ### 🚀 Technologies I Use
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,6 +26,7 @@ I’m very curious, self-taught, and passionate about every project I build. I l
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
 ---
+
 #### 🎨 Web Portfolio
 <p align="center">
   <a href="https://portfolio-plum-omega-80.vercel.app/">
@@ -31,6 +35,7 @@ I’m very curious, self-taught, and passionate about every project I build. I l
 </p>
 <p align="center">My portfolio built with Astro and Talwind CSS</p>
 ---
+
 ### 📫 Contact
 - ✉️ **aedothegabriel@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
