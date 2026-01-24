@@ -3,10 +3,10 @@
 
 ---
 ### 🎯 About Me
-I'm an enthusiastic frontend developer who started programming 1 year ago. I discovered the world of frontend development — and I loved it. Since then, I haven’t stopped learning.
-I enjoy building beautiful, functional, and fast websites using **HTML**, **CSS**, **JavaScript**, **Astro**, and **Tailwind CSS**.  
-Currently, I’m learning **React**, **SQL**, and **Next.js** because I want to keep growing and eventually become a **full-stack developer**.
-I’m very curious, self-taught, and passionate about every project I build. I love helping others, sharing what I learn, and collaborating with teams.
+  I'm an enthusiastic frontend developer who started programming 1 year ago. I discovered the world of frontend development — and I loved it. Since then, I haven’t stopped learning.
+  I enjoy building beautiful, functional, and fast websites using **HTML**, **CSS**, **JavaScript**, **Astro**, and **Tailwind CSS**.  
+  Currently, I’m learning **React**, **SQL**, and **Next.js** because I want to keep growing and eventually become a **full-stack developer**.
+  I’m very curious, self-taught, and passionate about every project I build. I love helping others, sharing what I learn, and collaborating with teams.
 ---
 
 ### 🧑‍💻 More About Me
