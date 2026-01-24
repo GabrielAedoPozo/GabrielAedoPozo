@@ -8,72 +8,38 @@
 
 ---
 
-### 🎯 Quick Intro
-
-**Frontend developer** obsessed with building fast, beautiful websites.  
-Started coding **1 year ago** and fell in love with it.  
-Currently diving deep into **React, Next.js & SQL** to become **full-stack**.
-
-🔥 **Freelancing** for small businesses  
-💡 **Self-taught** and proud  
-🎯 **Goal:** Full-Stack mastery
-
+### 🎯 About Me
+I'm an enthusiastic frontend developer who started programming 1 year ago. I discovered the world of frontend development — and I loved it. Since then, I haven’t stopped learning.
+I enjoy building beautiful, functional, and fast websites using **HTML**, **CSS**, **JavaScript**, **Astro**, and **Tailwind CSS**.  
+Currently, I’m learning **React**, **SQL**, and **Next.js** because I want to keep growing and eventually become a **full-stack developer**.
+I’m very curious, self-taught, and passionate about every project I build. I love helping others, sharing what I learn, and collaborating with teams.
 ---
-
-### ⚡ Tech I Use Daily
-
+### 🧑‍💻 More About Me
+- 🔥 Passionate about technology and web development  
+- 🧩 I love solving problems with code  
+- 📚 Currently learning **NextJS** and *SQL*  
+- 🎯 My goal: to become an expert full-stack developer  
+- 💼 Working as a freelancer for small businesses  
+---
+### 🚀 Technologies I Use
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
+---
+#### 🎨 Web Portfolio
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,astro,tailwind,git,github,vscode&perline=5" />
-</p>
-
----
-
-### 🌊 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielaedo&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" />
-</p>
-
----
-
-### 💼 Featured Work
-
-<div align="center">
   <a href="https://portfolio-plum-omega-80.vercel.app/">
-    <img src="./portfolio.png" width="500px" alt="Portfolio" />
+    <img src="./portfolio.png" width="600" style="filter: brightness(0.7);" alt="Web Portfolio" />
   </a>
-  
-  **My Portfolio** • Built with Astro & Tailwind
-  
-  <a href="https://portfolio-plum-omega-80.vercel.app/">
-    <img src="https://img.shields.io/badge/View_Live-6366F1?style=for-the-badge&logoColor=white" />
-  </a>
-</div>
-
+</p>
+<p align="center">My portfolio built with Astro and Talwind CSS</p>
 ---
-
-### 📬 Let's Connect
-
-<p align="center">
-  <a href="mailto:aedothegabriel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://gabriel-aedo.pages.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrielaedo&color=6366F1&style=flat-square&label=Profile+Views" />
-</p>
-
-<p align="center">
-  <i>"All you need is a computer and the will to learn."</i>
-</p>
-
-</div>
+### 📫 Contact
+- ✉️ **aedothegabriel@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
+- 🌐 [Portfolio](https://gabriel-aedo.pages.dev/)  
+> 💬 *"All you need is a computer and the will to learn."*
