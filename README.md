@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gabriel Aedo 👋</h1>
-<p align="center">💻 Frontend Developer | 🧠 Learning Every Day | 🇵🇪 Lima, Peru</p>
+<p align="center">💻 Fullstack Developer | 🧠 Learning Every Day | 🇵🇪 Lima, Peru</p>
 
 ---
 
