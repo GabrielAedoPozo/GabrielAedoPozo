@@ -29,13 +29,6 @@ I’m very curious, self-taught, and passionate about every project I build. I l
 ![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
 ---
 
-#### 🎨 Web Portfolio
-<p align="center">
-  <a href="https://portfolio-plum-omega-80.vercel.app/">
-    <img src="./portfolio.png" width="600" style="filter: brightness(0.7);" alt="Web Portfolio" />
-  </a>
-</p>
-<p align="center">My portfolio built with Astro and Talwind CSS</p>
 
 
 ### 📫 Contact
