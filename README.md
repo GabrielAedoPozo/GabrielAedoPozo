@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Gabriel Aedo 👋</h1>
 <p align="center">💻 Fullstack Developer | 🧠 Learning Every Day | 🇵🇪 Lima, Peru</p>
 
+<p align="center">
+  <img src="./banner-gap-system.png" width="100%" alt="GAP System - Gabriel Aedo Pozo">
+</p>
+
 ---
 
 ### 🎯 About Me
